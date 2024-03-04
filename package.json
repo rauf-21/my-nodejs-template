@@ -1,0 +1,19 @@
+{
+  "name": "my-nodejs-template",
+  "version": "1.0.0",
+  "description": "My NodeJS Template",
+  "main": "src/main.ts",
+  "scripts": {
+    "start": "tsx src/main.ts"
+  },
+  "keywords": [],
+  "author": "rauf-21",
+  "license": "ISC",
+  "devDependencies": {
+    "@ianvs/prettier-plugin-sort-imports": "^4.1.1",
+    "@types/node": "^20.11.24",
+    "prettier": "^3.2.5",
+    "tsx": "^4.7.1",
+    "typescript": "^5.3.3"
+  }
+}
